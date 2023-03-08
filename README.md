@@ -9,4 +9,4 @@ Media Queries
 Bootstrap - Bootstrap 4.0 framework
 
 Live Site URL: [https://onyinyexyz.github.io/TinDog/] 
-[tindognet.netlify.app]
+[https://tindognet.netlify.app]
